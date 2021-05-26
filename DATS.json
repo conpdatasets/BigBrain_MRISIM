@@ -27,9 +27,9 @@
 				"MINC",
 				"NIfTI"
             ],
-			"size" : 54,
+			"size" : 839.8,
 		        "unit" : {
-            			"value": "GB"
+            			"value": "MB"
 		        },
 			"access": {
 				"landingPage": "https://bigbrainproject.org",
@@ -116,7 +116,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "186"
+					"value": "14"
 				}
 			]
 		},
