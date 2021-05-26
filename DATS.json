@@ -1,0 +1,165 @@
+{
+    "title": "BigBrain dataset - MRISIM (derived dataset)",
+    "description": "Volumes that were used in the comparison study between CIVET-2.1 and FreeSurfer-6.0 for the extraction of cortical surfaces on high-resolution volumes, with the BigBrain serving as the gold standard. The BigBrain dataset is a digitized reconstruction of high-resolution histological sections of the brain of a 66 years old man with no history of neurological or psychiatric diseases. The BigBrain dataset is the result of a collaborative effort between the teams of Dr. Katrin Amunts and Dr. Karl Zilles (Forschungszentrum Jülich) and Dr. Alan Evans (Montreal Neurological Institute). For more information please visit the BigBrain Project website [https://bigbrainproject.org]",
+    "licenses": [
+		{
+            "@type": "License",
+			"name": "CC BY-NC-SA",
+            "version": "4.0"
+		}
+	],
+    "creators": [
+        {
+            "name": "BigBrain project"
+        }
+    ],
+    "types": [
+        {
+		"information":
+			{
+	            "value": "histology"
+			}
+        }
+    ],
+    "distributions": [
+	        {
+			"formats": [
+				"MINC",
+				"NIfTI"
+            ],
+			"size" : 54,
+		        "unit" : {
+            			"value": "GB"
+		        },
+			"access": {
+				"landingPage": "https://bigbrainproject.org",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				]
+			}
+		}
+	],
+	"keywords": [
+		{
+			"value" : "Brain Histology"
+		},
+		{
+			"value" : "3D Atlas"
+		},
+		{
+			"value" : "Microscopic"
+		},
+		{
+			"value" : "NeuroImaging"
+		},
+		{
+			"value" : "High Resolution"
+		},
+		{
+			"value" : "Human"
+		}
+	],
+    "version": "1.0",
+    "privacy": "open",
+    "isAbout": [
+        {
+            "identifier": {
+                "identifier": "9606",
+                "identifierSource":"https://www.ncbi.nlm.nih.gov/taxonomy/9606"
+            },
+            "name":"Homo sapiens"
+        },
+    	{
+            "name":"adult"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License"
+        }
+    ],
+    "primaryPublications": [
+        {
+            "title": "BigBrain: an ultrahigh-resolution 3D human brain model",
+            "publicationVenue": "Science",
+            "authorsList": "Amunts, Katrin, et al."
+		}
+    ],
+    "extraProperties": [
+        {
+            "category": "Total number of sessions",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
+        {
+            "category": "subjects",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        },
+		{
+			"category": "contact",
+			"values": [
+				{
+					"value": "info@bigbrainproject.org"
+				}
+			]
+		},
+		{
+			"category": "files",
+			"values": [
+				{
+					"value": "186"
+				}
+			]
+		},
+		{
+			"category": "CONP_status",
+			"values": [
+				{
+					"value": "CONP"
+				}
+			]
+		},
+		{
+			"category": "origin_consortium",
+			"values": [
+				{
+					"value": "BigBrain project"
+				}
+			]
+		},
+		{
+			"category": "logo",
+			"values": [
+				{
+					"value": "logo.png"
+				}
+			]
+		},
+		{
+			"category": "derivedFrom",
+			"values": [
+				{
+					"value": "https://github.com/conpdatasets/bigbrain-datalad/tree/792702f93455fcd565e76026a81e2e71fb46d444"
+				}
+			]
+		},
+		{
+			"category": "parent_dataset_id",
+			"values": [
+				{
+					"value": "bigbrain-datalad"
+				}
+			]
+		}
+   ]
+}
+
