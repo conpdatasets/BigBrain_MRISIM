@@ -1,4 +1,4 @@
-# BigBrain 3D ROIs
+# BigBrain MRISIM
 
 ## BigBrain
 
