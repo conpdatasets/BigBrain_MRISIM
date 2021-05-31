@@ -2,8 +2,8 @@
 
 ## BigBrain
 
-The BigBrain is the brain of a 65 years old man with no neurological or psychiatric
-diseases in clinical records at time of death. The brain was embedded in parafin and
+The BigBrain is the brain of a 65 year old man with no neurological or psychiatric
+diseases in clinical records at time of death. The brain was embedded in paraffin and
 sectioned in 7404 coronal histological sections (20 microns), stained for cell bodies.
 The BigBrain is the digitized reconstruction of the hi-res histological sections 
 (20 microns isotropic).
