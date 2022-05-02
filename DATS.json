@@ -1,6 +1,12 @@
 {
     "title": "BigBrain dataset - MRISIM (derived dataset)",
     "description": "Volumes that were used in the comparison study between CIVET-2.1 and FreeSurfer-6.0 for the extraction of cortical surfaces on high-resolution volumes, with the BigBrain serving as the gold standard. The BigBrain dataset is a digitized reconstruction of high-resolution histological sections of the brain of a 65 years old man with no history of neurological or psychiatric diseases. The BigBrain dataset is the result of a collaborative effort between the teams of Dr. Katrin Amunts and Dr. Karl Zilles (Forschungszentrum Jülich) and Dr. Alan Evans (Montreal Neurological Institute). For more information please visit the BigBrain Project website [https://bigbrainproject.org]",
+    "identifier": [
+        {
+            "identifier": "https://n2t.net/ark:/70798/d7wjhn8h75tzd8p21c",
+            "identifierSource": "CONP Portal - NAAN 70798"
+        }
+    ],
     "licenses": [
 		{
             "@type": "License",
